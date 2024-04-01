@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.crud</groupId>
 	<artifactId>simple-crud</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>simple-crud</name>
 	<description>Simple CRUD without database</description>
 	<properties>
